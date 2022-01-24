@@ -66,7 +66,7 @@
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=z1gonzo&hide=html&hide_title=true&hide_border=true&layout=compact" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gonzo&hide=html&hide_title=true&hide_border=true&layout=compact" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=z1gonzo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=FFF&icon_color=FFF&bg_color=323330" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gonzo&hide=html&hide_title=true&hide_border=true&layout=compact&line_height=21&text_color=FFF&icon_color=FFF&bg_color=323330" />
 
 
 
